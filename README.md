@@ -4,6 +4,6 @@
 
 # Part 2 - Isolating the double flow from os
 
-# part 4 - Change the run foreverloop to run loop function waiter for application, with my own api.
+# part 3 - The code some ours process will run in run forever loop
 
-# Last part commming soon
+# Updating Soon
